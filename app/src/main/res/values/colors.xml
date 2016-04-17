@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="c_fill">#33002aff</color>
+    <color name="c_stroke">#0015ff</color>
+    <color name="c_line">#0015ff</color>
+</resources>

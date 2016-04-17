@@ -1,0 +1,16 @@
+<resources>
+    <string name="s_app_name">Homework_18</string>
+
+    <string name="s_no_maps">Google Maps V2 not available!</string>
+
+    <string name="s_clear_map">Clear map</string>
+
+    <string name="s_last_location">Last location</string>
+    <string name="s_current_location">Current location</string>
+
+    <string name="s_gps_enabled">GPS is enabled on your device</string>
+    <string name="s_gps_disabled">GPS is disabled on your device. Would you like to enable it?</string>
+    <string name="s_go_to_settings">Go to SETTINGS page to enable GPS</string>
+    <string name="s_cancel">Cancel</string>
+
+</resources>
